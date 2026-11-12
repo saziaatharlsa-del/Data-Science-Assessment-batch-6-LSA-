@@ -1,1 +1,6 @@
 # Data-Science-Assessment-batch-6-LSA-
+Assessment Link - 
+
+https://docs.google.com/document/d/1BMHLrHzbd7fimN38oZobTtQcdH2npAMAwyqlAWsUe4o/edit?usp=sharing
+
+Data Set is uploaded as file in the repository.
